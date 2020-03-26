@@ -1,7 +1,7 @@
 #include "stdio.h"
 #include "stdlib.h"
 
-/*树节点*/
+/*follow */
 typedef struct node{
 	int data;
 	struct node * left; /*节点左边的树枝*/
