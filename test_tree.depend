@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1574247401 source:d:\lyn_workdata\code\test_code\test_tree\main.c
+	"stdio.h"
+	"stdlib.h"
+
